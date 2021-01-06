@@ -1,5 +1,5 @@
 #include <studio.h>
-013
+
 main() {
 /** 정수형 변수 a를 선언하여 저장 공간을 확보 */
 	int a;
